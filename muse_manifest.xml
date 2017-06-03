@@ -1,0 +1,37 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="blackandwhite.com" resolutions="1x" timestamp="1488969698220">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="525110303" ref="index"/>
+    <file name="index.css" crc="153578518" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="open-icon-1.svg" crc="113184407" seo="true" mt="1483425498000"/>
+    <file name="open-icon-2.svg" crc="3960440393" seo="true" mt="1483937882000"/>
+    <file name="black-and-white-person-woman-girl.jpg" crc="4214336932" seo="true" mt="1488965072000"/>
+    <file name="black-white-background-32.jpg" crc="294729370" seo="true" mt="1488965357000"/>
+    <file name="black-black-and-white-books-fashion-girl-favim.com-460634.jpg" crc="358356106" seo="true" mt="1488965585000"/>
+    <file name="black-white-photographyy-2.jpg" crc="3796756582" seo="true" mt="1488965702000"/>
+    <file name="download.jpg" crc="30825038" seo="true" mt="1488964731000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="black-and-white-africa-animals-wilderness.jpg" crc="4234290766" ref="index"/>
+    <file name="black-and-white-person-woman-girl.jpg" crc="4214336932" ref="index"/>
+    <file name="black-white-background-32.jpg" crc="3990189321" ref="index"/>
+    <file name="black-black-and-white-books-fashion-girl-favimcom-460634.jpg" crc="358356106" ref="index"/>
+    <file name="black-white-photographyy-2.jpg" crc="3796756582" ref="index"/>
+    <file name="gym.svg" crc="3777996111" seo="true" ref="index"/>
+    <file name="gym_poster_.png" crc="278328182" ref="index"/>
+    <file name="black.svg" crc="4199231104" seo="true" ref="index"/>
+    <file name="black_poster_.png" crc="4187662854" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3907495003" seo="true" mt="1488969415082" redirect="true"/>
+</manifest>
